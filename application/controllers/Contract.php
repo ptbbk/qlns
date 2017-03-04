@@ -15,4 +15,10 @@ class Contract extends MY_Controller {
         $this->middle = 'level/add';
         $this->layout();
     }
+    
+     public function delete()
+    {
+        $this->data['title'] = 'Xóa Mới Hợp Đồng';
+        
+    }
 }
