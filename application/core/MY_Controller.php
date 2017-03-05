@@ -61,7 +61,7 @@ class MY_Controller extends CI_Controller
                           array(
                                 array("Nhân Viên","index.php/employee/index"), 
                                 array("Nhân Viên Mới","index.php/employee/add"),
-                                array("Khối Chức Danh & Chức Danh","index.html"),
+                                array("Khối Chức Danh & Chức Danh","index.php/Regency/index"),
                                 array("Đơn Vị Công Tác","index.php/department/index"),
                                 
                                 array("Trình Độ","index.php/level/index"),
